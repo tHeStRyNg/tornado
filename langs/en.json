@@ -1,8 +1,8 @@
 {
   "closeNotification": "Close notification",
-  "indexNotification": "Tornado.cash {link}. However, it is still an experimental software. Please use at your own risk.",
+  "indexNotification": "Tornado is in dev mode and still an experimental software. Please use at your own risk.",
   "indexNotificationLinkText": "was audited",
-  "binanceInternalTxsNotification": "Please, do not use Binance wallet addresses for withdrawals. Internal transactions (including Tornado.cash withdrawals) are not currently supported on Binance Exchange. If you have an issue receiving your funds, you should contact Binance support.",
+  "binanceInternalTxsNotification": "Please, do not use Binance wallet addresses for withdrawals. Internal transactions (including Tornado withdrawals) are not currently supported on Binance Exchange. If you have an issue receiving your funds, you should contact Binance support.",
   "deposit": "Deposit",
   "depositButton": "Deposit",
   "withdraw": "Withdraw",
@@ -302,7 +302,7 @@
     "button": "Launch App",
     "switchNetwork": {
       "pageName": {
-        "governance": "Tornado Cash Governance"
+        "governance": "Tornado Governance"
       },
       "description": "There is not {pageName} on the selected network. Please switch to Ethereum Mainnet.",
       "button": "Switch network"
@@ -403,7 +403,7 @@
       "fileDesc": "Download raw private notes by default when you make a deposit"
     },
     "notification": {
-      "text": "Tornado.cash added on-chain note backups. Setup your {note} now or {medium} info.",
+      "text": "Tornado added on-chain note backups. Setup your {note} now or {medium} info.",
       "link": {
         "note": "note account",
         "medium": "read more"

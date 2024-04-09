@@ -30,11 +30,11 @@ export default {
     rpcUrls: {
       Infura: {
         name: 'Infura',
-        url: `https://mainnet.infura.io/v3/${INFURA_KEY}`
+        url: `'https://mainnet.infura.io/v3/${INFURA_KEY}'`
       },
       Alchemy: {
         name: 'Alchemy',
-        url: `https://eth-mainnet.alchemyapi.io/v2/${ALCHEMY_MAINNET_KEY}`
+        url: `'https://eth-mainnet.alchemyapi.io/v2/${ALCHEMY_MAINNET_KEY}'`
       }
     },
     multicall: '0xeefba1e63905ef1d7acba5a8513c70307c1ce441',
