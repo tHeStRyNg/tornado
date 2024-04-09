@@ -38,7 +38,7 @@ Important:
 ![image](https://github.com/tHeStRyNg/tornado/assets/118682909/b8d9e9b2-d5e0-4f69-97ad-6b45b2ba266d)
 
 
-For detailed explanation on how things work, checkout [Tornado Docs]([https://nuxtjs.org](https://github.com/tHeStRyNg/tornado/tree/master/docs)).
+For detailed explanation on how things work, checkout [Tornado Docs](https://github.com/tHeStRyNg/tornado/tree/master/docs).
 
 ## Update cached files
 
