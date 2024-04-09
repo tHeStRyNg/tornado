@@ -70,7 +70,7 @@ This module generates highly optimized Web Assembly modules for the low level cr
 This is a JavaScript and Pure Web Assembly implementation of zkSNARK and PLONK schemes. It uses the Groth16 Protocol (3 point only and 3 pairings), PLONK and FFLONK.
 
 #### Custom Configuration
- For RPC you can use any network (ETH, POLY, etc) RPC for your anonymyty.
- We are currently running the service cross https://cloudflare-eth.com ^_^.
+ For RPC you can use any network (ETH, POLY, etc) RPC for your anonymity.
+ We are currently running the service cross https://cloudflare-eth.com ^_^
 
  Enjoy !!!
