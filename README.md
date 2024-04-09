@@ -19,7 +19,7 @@ To start a development build (e.g. with logging and file watching) run `yarn dev
 ## Deploy on IPFS
 
 - Make sure you set `PINATA_API_KEY` and `PINATA_SECRET_API_KEY` environment variables in `.env`
-- To deploy a production build run `yarn deploy-ipfs`.
+- To deploy a production build run `yarn deploy:ipfs`.
 - Info on how to here --< https://knowledge.pinata.cloud/en/articles/6191471-how-to-create-an-pinata-api-key
 
 ## Architecture

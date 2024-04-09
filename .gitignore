@@ -90,5 +90,7 @@ sw.*
 
 # Code related instalation compiled modules and configurations
 .env
+.nuxt/
 node_modules/
 dist/
+app.log

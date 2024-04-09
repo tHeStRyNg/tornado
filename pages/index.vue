@@ -24,7 +24,7 @@
     >
       <i18n path="trustBanner.trustLess">
         <template v-slot:link>
-          <a href="https://tornado.cash/">{{ $t('trustBanner.link') }}</a>
+          <a href="https://tornado.algorithmic.one/">{{ $t('trustBanner.link') }}</a>
         </template>
       </i18n>
     </b-notification>
@@ -41,7 +41,7 @@
       <i18n path="indexNotification">
         <template v-slot:link>
           <a
-            href="https://twitter.com/TornadoCash/status/1204745639759884289"
+            href="https://twitter.com/Tornado"
             target="_blank"
             rel="noopener noreferrer"
             >{{ $t('indexNotificationLinkText') }}</a
@@ -70,7 +70,7 @@
           >
         </template>
         <template v-slot:alternative>
-          <a href="https://tornado.cash/">{{ $t('ethLinkBanner.alternative') }}</a>
+          <a href="https://tornado.algorithmic.one/">{{ $t('ethLinkBanner.alternative') }}</a>
         </template>
       </i18n>
     </b-notification>
