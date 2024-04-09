@@ -33,6 +33,11 @@ Important:
 
 ## Architecture
 
+### The Basic Web Infrastructure (_not Circles_)
+
+![image](https://github.com/tHeStRyNg/tornado/assets/118682909/b8d9e9b2-d5e0-4f69-97ad-6b45b2ba266d)
+
+
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 
 ## Update cached files
