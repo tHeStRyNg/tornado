@@ -1,5 +1,9 @@
 # Tornado
 
+![image](https://github.com/tHeStRyNg/tornado/assets/118682909/a5525da8-38e5-4118-a328-6e0e340be0d4)
+
+Tornado is a **fully decentralized** **non-custodial** **protocol** allowing private transactions in the crypto-space.
+
 ### Scope
 - Anonymous Non-Custodial Ethereum Privacy Solution Deposit / Withdraw
 - Because Maintaining Financial Privacy is Essential to Preserve our Freedom.
