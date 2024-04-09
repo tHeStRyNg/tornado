@@ -1,6 +1,6 @@
 # Introduction to Tornado
 
-![image](https://github.com/tHeStRyNg/tornado/assets/118682909/3f5935c5-23c1-4d60-814f-b9f0e5131427)
+![image](https://github.com/tHeStRyNg/tornado/assets/118682909/f166ceb1-dd4d-466f-b332-aad9938e702e)
 
 Tornado is a **fully decentralized** **non-custodial** **protocol** allowing private transactions in the crypto-space.
 
