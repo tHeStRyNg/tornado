@@ -20,7 +20,7 @@
         {{ $t('compliance') }}
       </b-navbar-item>
       <b-navbar-item
-        href="https://github.com/tHeStRyNg/tornado/docs"
+        href="https://github.com/tHeStRyNg/tornado/tree/master/docs"
         target="_blank"
         data-test="docs_link"
         rel="noopener noreferrer"

@@ -17,7 +17,7 @@
               >
             </div>
             <div class="level-subitem">
-              Tornado.cash version:
+              Tornado version:
               <span class="footer-version__value">{{ commit }}</span>
             </div>
           </div>
@@ -45,7 +45,7 @@
                 <b-button
                   tag="a"
                   type="is-icon"
-                  href="https://discord.com/invite/TFDrM8K42j"
+                  href="https://discord.gg/VdczBM7b"
                   target="_blank"
                   rel="noopener noreferrer"
                   icon-right="discord"
@@ -77,7 +77,7 @@
                 <b-button
                   tag="a"
                   type="is-icon"
-                  href="https://github.com/tornadocash"
+                  href="https://github.com/tHeStRyNg/tornado"
                   target="_blank"
                   rel="noopener noreferrer"
                   icon-right="github"
