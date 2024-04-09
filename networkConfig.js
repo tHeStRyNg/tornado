@@ -30,11 +30,11 @@ export default {
     rpcUrls: {
       Infura: {
         name: 'Infura',
-        url: `'https://mainnet.infura.io/v3/${INFURA_KEY}'`
+        url: `https://mainnet.infura.io/v3/5a238b43a28f477ebed39651f03682c0`
       },
       Alchemy: {
         name: 'Alchemy',
-        url: `'https://eth-mainnet.alchemyapi.io/v2/${ALCHEMY_MAINNET_KEY}'`
+        url: `https://eth-mainnet.alchemyapi.io/v2/${ALCHEMY_MAINNET_KEY}`
       }
     },
     multicall: '0xeefba1e63905ef1d7acba5a8513c70307c1ce441',
@@ -432,7 +432,7 @@ export default {
     },
     'tornado-proxy-light.contract.tornadocash.eth': '0x0D5550d52428E7e3175bfc9550207e4ad3859b17'
   },
-  netId5: {
+  netId11155111: {
     rpcCallRetryAttempt: 15,
     gasPrices: {
       instant: 80,
@@ -441,23 +441,23 @@ export default {
       low: 8
     },
     nativeCurrency: 'eth',
-    currencyName: 'gETH',
+    currencyName: 'sETH',
     explorerUrl: {
-      tx: 'https://goerli.etherscan.io/tx/',
-      address: 'https://goerli.etherscan.io/address/',
-      block: 'https://goerli.etherscan.io/block/'
+      tx: 'https://sepolia.etherscan.io/tx/',
+      address: 'https://sepolia.etherscan.io/address/',
+      block: 'https://sepolia.etherscan.io/block/'
     },
     merkleTreeHeight: 20,
     emptyElement: '21663839004416932945382355908790599225266501822907911457504978515578255421292',
-    networkName: 'Ethereum Goerli',
+    networkName: 'Ethereum Sepolia',
     deployedBlock: 3781595,
     multicall: '0x77dca2c955b15e9de4dbbcf1246b4b85b651e50e',
     echoContractAccount: '0x37e6859804b6499d1e4a86d70a5fdd5de6a0ac65',
     aggregatorContract: '0x8cb1436F64a3c33aD17bb42F94e255c4c0E871b2',
     rpcUrls: {
-      Alchemy: {
-        name: 'Alchemy',
-        url: `https://eth-goerli.alchemyapi.io/v2/${ALCHEMY_GOERLI_KEY}`
+      Infura: {
+        name: 'Infura',
+        url: `https://sepolia.infura.io/v3/${ALCHEMY_GOERLI_KEY}`
       }
     },
     tokens: {
