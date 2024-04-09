@@ -1,17 +1,17 @@
 # Tornado
 
 ### Scope
-- Anonymous Non-Custodial Ethereum Privacy Solution
+- Anonymous Non-Custodial Ethereum Privacy Solution Deposit / Withdraw
 - Because Maintaining Financial Privacy is Essential to Preserve our Freedom.
 
 ## Building locally
 
 - Install [Node.js](https://nodejs.org) ``` version 14 ```
-  - If you are using [nvm](https://github.com/creationix/nvm#installation) (recommended) running `nvm use` will automatically choose the right node version for you.
+- If you are using [nvm](https://github.com/creationix/nvm#installation) (recommended) running `nvm use` will automatically choose the right node version for you.
 - Install [Yarn](https://yarnpkg.com/en/docs/install)
 - Install dependencies: `yarn`
 - Copy the `.env.example` file to `.env`
-  - Replace environment variables with your own personal.
+- Replace environment variables with your own personal.
 - Build the project to the `./dist/` folder with `yarn generate`.
 
 ## Development builds
@@ -68,3 +68,9 @@ websnark is used to generate zkSnark Proofs from the browser.
 This module generates highly optimized Web Assembly modules for the low level cryptographic primitives.
 - SnarkJS  --> https://github.com/iden3/snarkjs
 This is a JavaScript and Pure Web Assembly implementation of zkSNARK and PLONK schemes. It uses the Groth16 Protocol (3 point only and 3 pairings), PLONK and FFLONK.
+
+#### Custom Configuration
+ For RPC you can use any network (ETH, POLY, etc) RPC for your anonymyty.
+ We are currently running the service cross https://cloudflare-eth.com ^_^.
+
+ Enjoy !!!
