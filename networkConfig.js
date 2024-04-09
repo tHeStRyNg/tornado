@@ -30,7 +30,7 @@ export default {
     rpcUrls: {
       Infura: {
         name: 'Infura',
-        url: `https://mainnet.infura.io/v3/5a238b43a28f477ebed39651f03682c0`
+        url: `https://mainnet.infura.io/v3/${INFURA_KEY}`
       },
       Alchemy: {
         name: 'Alchemy',
