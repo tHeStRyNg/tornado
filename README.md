@@ -2,7 +2,7 @@
 
 ### Scope
 - Anonymous Non-Custodial Ethereum Privacy Solution
-Because Maintaining Financial Privacy is Essential to Preserve our Freedom.
+- Because Maintaining Financial Privacy is Essential to Preserve our Freedom.
 
 ## Building locally
 
