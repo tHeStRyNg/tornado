@@ -44,7 +44,7 @@ export default {
     fallback: true
   },
   head: {
-    title: 'Tornado.cash',
+    title: 'Tornado',
     meta: [
       { charset: 'utf-8' },
       {
@@ -69,7 +69,7 @@ export default {
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Tornado.Cash'
+        content: 'Tornado'
       },
       {
         hid: 'og:description',
@@ -79,7 +79,7 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://tornado.cash'
+        content: 'https://tornado.algorithmic.one'
       },
       {
         hid: 'og:type',

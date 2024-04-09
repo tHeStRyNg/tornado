@@ -1,6 +1,8 @@
 # Tornado
 
-> UI for non-custodial Ethereum Privacy solution
+### Scope
+- Anonymous Non-Custodial Ethereum Privacy Solution
+Because Maintaining Financial Privacy is Essential to Preserve our Freedom.
 
 ## Building locally
 

@@ -4,7 +4,7 @@ By design, everything is public on the blockchain, which can deprive users from 
 
 However, maintaining privacy and preserving financial freedom should never come at the expense of non-compliance. The right of privacy lies in the ability to have control over the information we provide and to whom we provide it.
 
-To this extent, **Tornado.Cash Compliance Tool enables users to prove the origin of their funds.** Thanks to the Note generated after each deposit, **this tool will issue a cryptographically verified proof of transactional history** using the Ethereum addresses used to deposit & withdraw assets.
+To this extent, **Tornado Compliance Tool enables users to prove the origin of their funds.** Thanks to the Note generated after each deposit, **this tool will issue a cryptographically verified proof of transactional history** using the Ethereum addresses used to deposit & withdraw assets.
 
 You can visit the Medium post related to this tool to learn more about its development and launch: [**Tornado.Cash compliance Medium Post**](https://tornado-cash.medium.com/tornado-cash-compliance-9abbf254a370).
 
