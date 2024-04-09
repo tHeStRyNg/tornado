@@ -1,4 +1,4 @@
-# Tornado Cash Classic UI
+# Tornado
 
 > UI for non-custodial Ethereum Privacy solution
 
@@ -24,10 +24,6 @@ To start a development build (e.g. with logging and file watching) run `yarn dev
 ## Architecture
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
-
-## Audit
-
-[TornadoCash_Classic_dApp_audit_Decurity.pdf](https://tornado.cash/audits/TornadoCash_Classic_dApp_audit_Decurity.pdf)
 
 ## Update cached files
 
