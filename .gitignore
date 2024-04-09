@@ -87,3 +87,8 @@ sw.*
 
 # Mac OSX
 .DS_Store
+
+# Code related instalation compiled modules and configurations
+.env
+node_modules/
+dist/
