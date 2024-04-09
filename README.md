@@ -4,7 +4,7 @@
 
 ## Building locally
 
-- Install [Node.js](https://nodejs.org) version 14
+- Install [Node.js](https://nodejs.org) ``` version 14 ```
   - If you are using [nvm](https://github.com/creationix/nvm#installation) (recommended) running `nvm use` will automatically choose the right node version for you.
 - Install [Yarn](https://yarnpkg.com/en/docs/install)
 - Install dependencies: `yarn`
@@ -54,3 +54,12 @@ yarn update:encrypted 56
 
 yarn update:zip
 ```
+
+#### Dependancies
+
+- WebSnark --> https://github.com/poma/websnark
+A fast zkSnark proof generator written in native Web Assembly. 
+websnark is used to generate zkSnark Proofs from the browser.
+This module generates highly optimized Web Assembly modules for the low level cryptographic primitives.
+- SnarkJS  --> https://github.com/iden3/snarkjs
+This is a JavaScript and Pure Web Assembly implementation of zkSNARK and PLONK schemes. It uses the Groth16 Protocol (3 point only and 3 pairings), PLONK and FFLONK.
