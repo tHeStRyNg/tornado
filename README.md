@@ -10,17 +10,17 @@ Tornado is a **fully decentralized** **non-custodial** **protocol** allowing pri
 
 ## Building locally
 
-- Install [Node.js](https://nodejs.org) ``` version 14 ```
-- If you are using [nvm](https://github.com/creationix/nvm#installation) (recommended) running `nvm use` will automatically choose the right node version for you.
-- Install [Yarn](https://yarnpkg.com/en/docs/install)
-- Install dependencies: `yarn`
-- Copy the `.env.example` file to `.env`
+- Install NodeJS
+- If you are using we recommended running `nvm use` will automatically choose the right node version for you and if you 're not using it, you should ^_^
+- Install Yarn
+- Install dependencies
+- Create the environment config file as hiddden 
 - Replace environment variables with your own personal.
-- Build the project to the `./dist/` folder with `yarn generate`.
+- Build the project
 
 ## Development builds
 
-To start a development build (e.g. with logging and file watching) run `yarn dev`.
+You can start a development build and nuxt will help re-build after each ile change
 
 ## Deploy on IPFS
 
