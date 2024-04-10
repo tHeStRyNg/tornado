@@ -17,6 +17,8 @@ Tornado is a **fully decentralized** **non-custodial** **protocol** allowing pri
 - Create the environment config file as hiddden 
 - Replace environment variables with your own personal.
 - Build the project
+- install pm2 for fork process on shell ``` npm install pm2 -g ```
+- start with ``` pm2 --name Tornado start yarn -- dev ```
 
 ## Development builds
 
