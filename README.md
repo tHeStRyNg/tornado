@@ -12,7 +12,7 @@ Tornado is a **fully decentralized** **non-custodial** **protocol** allowing pri
 
 - Install NodeJS
 - If you are using we recommended running `nvm use` will automatically choose the right node version for you and if you 're not using it, you should ^_^
-- Install Yarn
+- Install Yarn -> https://linuxize.com/post/how-to-install-yarn-on-ubuntu-20-04/
 - Install dependencies
 - Create the environment config file as hiddden 
 - Replace environment variables with your own personal.
